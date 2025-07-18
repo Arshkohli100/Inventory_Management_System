@@ -23,7 +23,7 @@
  
     php artisan migrate
     
-### Server ON ```url: http://127.0.0.1:8000/```
+### To Run the server
 
     php artisan serve
 
